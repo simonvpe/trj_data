@@ -2,7 +2,7 @@
     "machine": "x86_64", 
     "node": "simon-laptop", 
     "version": "#103-Ubuntu SMP Fri Aug 14 21:42:59 UTC 2015", 
-    "user": "simon", 
+    "user": "root", 
     "platform": "Linux-3.13.0-63-generic-x86_64-with-Ubuntu-14.04-trusty", 
     "release": "3.13.0-63-generic", 
     "processor": "x86_64", 
