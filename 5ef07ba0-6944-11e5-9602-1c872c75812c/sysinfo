@@ -1,10 +1,10 @@
 {
     "machine": "x86_64", 
     "node": "simons-desktop", 
-    "version": "#30~14.04.1-Ubuntu SMP Tue Sep 1 09:32:55 UTC 2015", 
+    "version": "#33~14.04.1-Ubuntu SMP Tue Sep 22 09:27:00 UTC 2015", 
     "user": "simon", 
-    "platform": "Linux-3.19.0-28-generic-x86_64-with-Ubuntu-14.04-trusty", 
-    "release": "3.19.0-28-generic", 
+    "platform": "Linux-3.19.0-30-generic-x86_64-with-Ubuntu-14.04-trusty", 
+    "release": "3.19.0-30-generic", 
     "processor": "x86_64", 
     "system": "Linux"
 }
